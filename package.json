@@ -1,5 +1,5 @@
 {
-  "name": "angular2-firebase-demo-student-manager",
+  "name": "angular2-demo-blog",
   "version": "1.0.0",
   "scripts": {
     "start": "tsc && concurrently \"npm run tsc:w\" \"npm run lite\" ",
