@@ -20,3 +20,16 @@ body {
     margin-top: 0;
     font-weight: 300;
 }
+
+.post-list {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.post-list .post h4 {
+    cursor: pointer;
+}
+
+.post-list .post h4:hover {
+    text-decoration: underline;
+}
